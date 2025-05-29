@@ -13,7 +13,7 @@ Uma calculadora interativa desenvolvida com HTML, CSS e JavaScript, com suporte 
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/659f9e37-7644-4bbd-bbf1-b398a7638f39)
+![image](https://github.com/user-attachments/assets/3d6fd544-b05e-4f08-bc76-d956c478da7a)
 
 ## 🛠️ Tecnologias utilizadas
 
